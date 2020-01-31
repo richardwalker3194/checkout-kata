@@ -2,7 +2,15 @@
 
 namespace checkout_kata
 {
-    public class Class1
+    public class Basket
     {
+        public void Scan() {
+            throw new NotImplementedException("TODO");
+        }
+        public void Total()
+        {
+            throw new NotImplementedException("TODO");
+        }
     }
+
 }
