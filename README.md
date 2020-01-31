@@ -25,4 +25,4 @@ The checkout accepts the items in any order, so that if we scan a pack of Biscui
 
 ## Your task
 
-Please [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) this repo and implement the above requirements spending no more than 60 minutes. Please then push your code up to this repo.
+Please [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) this repo and implement the above requirements spending no more than 60 minutes. When you've done that please send the url of your solution to your representative..
